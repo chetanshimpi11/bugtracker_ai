@@ -1,0 +1,11 @@
+title,description,priority
+Crash on login,App crashes when user logs in,High
+Button not aligned,Submit button is not centered,Medium
+Spelling mistake,Typo in the About page,Low
+App freezes randomly,App becomes unresponsive randomly,High
+Slow loading time,Page takes 10 seconds to load,Medium
+Wrong error message,Shows 404 instead of 500 error,Medium
+UI overlap issue,Text overlaps on smaller screens,Medium
+Data not saving,User changes are not stored,High
+Security warning missing,No SSL warning on unsecured login,High
+Font size too small,Text hard to read due to font size,Low

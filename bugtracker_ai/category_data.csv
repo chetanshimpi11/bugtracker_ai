@@ -1,0 +1,11 @@
+bug_report,category
+App crashes when logging in,Crash Bug
+Submit button not working,UI Bug
+Spelling mistake in about section,Content Bug
+Slow loading time on homepage,Performance Bug
+App freezes while clicking,Crash Bug
+Login form not visible,UI Bug
+Security vulnerability in payment,Security Bug
+Text overlapping in UI,UI Bug
+Wrong redirection after login,Functional Bug
+Crash when uploading file,Crash Bug
